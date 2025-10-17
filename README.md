@@ -30,4 +30,19 @@
 
 ---
 
-## Repository Layout
+---
+
+## 📞 Contact & Links
+
+- **Email:** [ali4.concrete.ai@gmail.com](mailto:ali4.concrete.ai@gmail.com)  
+- **WhatsApp:** [+964 771 601 6272](https://wa.me/9647716016272)  
+- **YouTube:** [youtube.com/@Ali4Concrete](https://www.youtube.com/@Ali4Concrete)  
+- **LinkedIn:** [linkedin.com/in/ali4concrete](https://www.linkedin.com/in/ali4concrete/)  
+- **Facebook:** [facebook.com/Ali4Concrete.Official](https://www.facebook.com/Ali4Concrete.Official)
+
+---
+
+© 2025 **Ali4Concrete** — All Rights Reserved  
+*Developed by Eng. Ali Abdulameer Mohammed*  
+🧱 *Testing · Training · Standards · Technology*
+
