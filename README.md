@@ -1,6 +1,13 @@
 <p align="left">
   <img src="ali4concrete-logo.png" alt="Ali4Concrete Logo" width="140">
 </p>
+# ACI Aggregate Testing Technician Level 1 (ATT L1) Calculator
+
+> **Powered by the CretEx Ecosystem**
+> This tool represents the first practical implementation of the **[CretEx Framework](https://github.com/Ali4Concrete/CretEx)**.
+> It demonstrates how "Engineering Certainty" is applied to standard ACI certification workflows.
+
+---
 
 # Ali4Concrete – ACI Aggregate Testing Technician Level 1 – Calculator (SI)
 
@@ -34,12 +41,10 @@
 
 ## 📞 Contact & Links
 
-- **Email:** [ali4.concrete.ai@gmail.com](mailto:ali4.concrete.ai@gmail.com)  
+- **Email:** [info@aliabdulameer.me](mailto:info@aliabdulameer.me)  
 - **WhatsApp:** [+964 771 601 6272](https://wa.me/9647716016272)  
 - **YouTube:** [youtube.com/@Ali4Concrete](https://www.youtube.com/@Ali4Concrete)  
-- **LinkedIn:** [linkedin.com/in/ali4concrete](https://www.linkedin.com/in/ali4concrete/)  
-- **Facebook:** [facebook.com/Ali4Concrete.Official](https://www.facebook.com/Ali4Concrete.Official)
-
+- **LinkedIn:** [linkedin.com/in/ali4concrete](https://www.linkedin.com/in/aliabdulameerme/)
 ---
 
 © 2025 **Ali4Concrete** — All Rights Reserved  
